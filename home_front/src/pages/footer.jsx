@@ -1,4 +1,4 @@
-import { FooterView } from '../sections/footer/view';
+import FooterView from '../sections/overview/footer-view';
 
 // ----------------------------------------------------------------------
 

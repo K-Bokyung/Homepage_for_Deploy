@@ -1,4 +1,4 @@
-import { NavbarView } from '../sections/navbar/view';
+import NavbarView from '../sections/overview/navbar-view';
 
 // ----------------------------------------------------------------------
 
