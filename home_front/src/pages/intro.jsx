@@ -1,4 +1,4 @@
-import { IntroView } from '../sections/intro/view';
+import IntroView from '../sections/overview';
 
 // ----------------------------------------------------------------------
 

@@ -1,4 +1,4 @@
-import { CopyrightView } from '../sections/copyright/view';
+import CopyrightView from '../sections/overview/copyright-view';
 
 // ----------------------------------------------------------------------
 

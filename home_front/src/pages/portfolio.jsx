@@ -1,4 +1,4 @@
-import { PortfolioView } from '../sections/portfolio/view';
+import PortfolioView from '../sections/overview';
 
 // ----------------------------------------------------------------------
 
