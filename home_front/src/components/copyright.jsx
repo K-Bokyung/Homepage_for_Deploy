@@ -1,8 +1,4 @@
-// import { useState } from 'react';
-
-// ----------------------------------------------------------------
-
-export default function CopyrightView() {
+export default function CopyrightPage() {
   return (
     // <!-- Copyright Section-->
     <div className='copyright py-4 text-center text-white'>

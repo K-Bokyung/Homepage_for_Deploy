@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
-import Navbar from './pages/navbar';
+import Navbar from './components/navbar';
 import HomeMain from './pages/HomeMain';
-import Footer from './pages/footer';
-import CopyRight from './pages/copyright';
+import Footer from './components/footer';
+import CopyRight from './components/copyright';
 
 //
 

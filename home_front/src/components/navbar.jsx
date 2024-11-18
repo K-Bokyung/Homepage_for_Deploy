@@ -1,8 +1,4 @@
-import React from 'react';
-
-// ----------------------------------------------------------------
-
-export default function NavbarView() {
+export default function NavbarPage() {
   return (
     // <!-- Navigation-->
     <nav className='navbar navbar-expand-lg bg-secondary text-uppercase fixed-top' id='mainNav'>

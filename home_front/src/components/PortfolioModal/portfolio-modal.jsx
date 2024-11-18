@@ -1,6 +1,3 @@
-// import { useState } from React;
-
-//--------------------------------------------------------------------------------
 export function PortfolioModal() {
   return (
     // <!-- Portfolio Modals-->

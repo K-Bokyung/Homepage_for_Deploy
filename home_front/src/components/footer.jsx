@@ -1,8 +1,8 @@
-// import { useState } from 'react';
+import FooterView from '../sections/overview/footer-view';
 
-// ----------------------------------------------------------------
+// ----------------------------------------------------------------------
 
-export default function FooterView() {
+export default function FooterPage() {
   return (
     // <!-- Footer-->
     <footer className='footer text-center'>
