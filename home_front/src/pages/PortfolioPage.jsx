@@ -1,3 +1,5 @@
+import PortfolioModal from '../components/PortfolioModal';
+
 export default function PortfolioPage() {
   return (
     // <!-- Portfolio Section-->
