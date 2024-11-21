@@ -1,4 +1,4 @@
-export function PortfolioModal() {
+export default function PortfolioModal() {
   return (
     // <!-- Portfolio Modals-->
     // <!-- Portfolio Modal 1-->

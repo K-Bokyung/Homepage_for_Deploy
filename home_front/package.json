@@ -2,10 +2,11 @@
   "name": "homepage_for_deploy",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://k-Bokyung.github.io/Homepage_for_Deploy",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -16,6 +17,7 @@
     "firebase": "^10.12.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router": "^6.28.0",
     "react-router-dom": "^6.25.1",
     "react-scripts": "^3.0.1"
   },
